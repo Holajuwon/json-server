@@ -26,14 +26,14 @@
   ],
   "courses": [
     {
-      "instructor": "Troy",
+      "instructor": "Troy Houdini",
       "courseTitle": "How To Eat and Sleep",
       "courseUrl": "https://res.cloudinary.com/dobztfsdj/video/upload/v1588174345/xxtystguqjhgtc4xr8ml.mp4",
       "id": 5
     },
     {
       "courseTitle": "How To Eat and Sleep",
-      "instructor": "Tade",
+      "instructor": "Tade Ogidan",
       "courseUrl": "https://res.cloudinary.com/dobztfsdj/video/upload/v1588174345/xxtystguqjhgtc4xr8ml.mp4",
       "id": 6
     },
